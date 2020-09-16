@@ -1,0 +1,17 @@
+# Ignore Everything
+*
+
+# But not .cpp
+!*.cpp
+# or .h
+!*.h
+# Or directories
+!*/
+!.gitignore
+!README.md
+!DesignPatterns_01.odp
+!DesignPatterns_02.odp
+stdafx.h
+stdafx.cpp
+targetver.h
+
